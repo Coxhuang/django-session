@@ -98,3 +98,9 @@ request.session.items()
 
 ```
 
+## #3 cookie
+
+```
+https://github.com/Coxhuang/django-cookie
+```
+
